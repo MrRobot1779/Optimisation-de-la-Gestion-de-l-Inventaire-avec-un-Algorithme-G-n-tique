@@ -1,0 +1,1001 @@
+product_id,product_name,product_weight,product_volume,product_price,product_quantity
+1,Abricots - Marque C3,2.8,1.2,3,96
+2,Papayes - Marque Y3,1.6,1.7,6,71
+3,Pate Brisee - Marque N1,1.8,1.7,3,122
+4,Soda a l'Orange - Marque D1,0.6,1.4,4,99
+5,Pasteque - Marque H2,2.8,1.6,6,145
+6,Pasteque - Marque H2,2.1,1.1,7,89
+7,Noix de Coco - Marque F3,1.2,1.2,7,150
+8,Craquelins aux Graines de Sesame - Marque A1,1.6,1.3,4,81
+9,Baguettes de Pain - Marque A2,3.0,1.6,2,107
+10,Yaourts aux Fruits - Marque F,2.3,1.4,7,108
+11,Poisson Surgele - Marque P,2.5,1.8,1,60
+12,Pates - Marque A,0.7,1.5,1,107
+13,Gateau au Fromage - Marque F1,0.6,1.9,2,83
+14,Biere Brune - Marque Y2,0.7,1.3,10,134
+15,Melon - Marque G2,0.9,1.5,9,84
+16,Myrtilles - Marque U2,2.5,1.4,2,121
+17,Poulet Roti - Marque C2,1.4,1.1,3,74
+18,Huile d'Olive - Marque Z,0.9,1.6,9,94
+19,Cerises - Marque V2,2.4,1.4,3,99
+20,Oranges - Marque P2,2.5,1.2,5,81
+21,Citrons - Marque O2,1.4,1.7,3,59
+22,Roti de Boeuf - Marque D2,1.2,1.6,8,108
+23,Yaourts aux Fruits - Marque F,1.2,1.7,7,104
+24,Abricots - Marque C3,1.0,1.2,1,120
+25,Courgettes - Marque K2,0.6,1.6,4,62
+26,Saucisses Fumees - Marque Z2,2.6,1.6,9,145
+27,Pistaches - Marque I3,1.3,1.2,10,106
+28,Chips de Legumes - Marque C1,1.5,1.5,4,79
+29,Chewing-gums a la Menthe - Marque K1,2.3,1.5,5,124
+30,Amandes - Marque H3,2.9,1.2,10,51
+31,Yaourts Nature - Marque M1,1.4,2.0,6,64
+32,Poulet Roti - Marque C2,2.9,1.6,9,75
+33,Chips de Mais - Marque Z1,1.7,1.2,10,143
+34,Lait en Brique - Marque Y,2.1,1.3,9,133
+35,Jus d'Orange - Marque H,0.9,1.3,9,67
+36,Pistaches - Marque I3,2.8,1.1,4,73
+37,Craquelins aux Graines de Sesame - Marque A1,0.7,1.3,7,89
+38,Muffins aux Myrtilles - Marque J1,2.3,1.5,1,55
+39,Eau Minerale - Marque T,1.2,1.3,3,81
+40,Cerises - Marque V2,2.9,1.3,5,148
+41,Bouteille de Jus de Pomme - Marque O1,2.0,1.2,9,137
+42,Bouteille de Vin Rouge - Marque X1,0.9,1.5,6,117
+43,Miel - Marque O,1.8,1.7,2,123
+44,Bagels - Marque B2,1.4,1.5,8,116
+45,Pasteque - Marque H2,1.6,1.5,2,120
+46,Poulet Roti - Marque C2,0.9,1.4,8,104
+47,Kiwis - Marque Z3,1.1,1.6,3,126
+48,Biscuits au Beurre - Marque I1,0.6,1.0,2,129
+49,Amandes - Marque H3,1.0,1.9,9,60
+50,Patates Douces - Marque J2,0.8,1.0,1,130
+51,Pate a Tartiner au Chocolat - Marque V,2.3,1.8,8,124
+52,Poulet Roti - Marque C2,0.9,1.0,10,142
+53,Amandes - Marque H3,1.0,1.7,8,94
+54,Courges - Marque N2,1.0,1.4,2,93
+55,Myrtilles - Marque U2,0.9,1.2,1,82
+56,Kiwis - Marque Z3,1.7,1.5,5,60
+57,Craquelins aux Graines de Sesame - Marque A1,1.9,1.5,10,94
+58,Margarine - Marque U1,1.0,1.7,6,150
+59,Barre de Chocolat - Marque G1,1.1,1.2,9,84
+60,Jus d'Orange - Marque H,1.5,1.1,9,146
+61,Cornichons au Vinaigre - Marque N,2.0,1.2,8,76
+62,Biere Blonde - Marque X2,2.7,1.9,9,66
+63,Bonbons Gelifies - Marque H1,1.8,1.9,4,122
+64,Jambon Cuit - Marque P1,2.9,1.8,9,104
+65,Eau Minerale - Marque T,2.6,1.5,7,102
+66,Cacahuetes - Marque J3,2.0,1.2,10,80
+67,Bouteille de Jus de Pomme - Marque O1,0.7,1.6,3,72
+68,Chewing-gums a la Menthe - Marque K1,1.9,1.5,8,147
+69,Noisettes - Marque G3,2.4,1.6,3,124
+70,Kiwis - Marque Z3,1.4,1.2,8,124
+71,Tofu - Marque E2,1.4,1.3,9,105
+72,Pistaches - Marque I3,1.6,1.2,10,132
+73,Nectarines - Marque B3,0.5,1.6,2,97
+74,Boites de Cereales - Marque X,1.8,1.1,7,97
+75,Biere Brune - Marque Y2,2.4,1.7,6,148
+76,Cerises - Marque V2,3.0,1.2,1,103
+77,Abricots - Marque C3,1.3,1.8,5,70
+78,Pistaches - Marque I3,1.0,1.7,10,97
+79,Bonbons Gelifies - Marque H1,2.9,1.7,10,114
+80,Biere Brune - Marque Y2,0.6,1.6,10,134
+81,Baguettes de Pain - Marque A2,2.5,1.6,3,65
+82,Peches - Marque A3,1.4,1.3,2,86
+83,Huile d'Olive - Marque Z,2.3,1.7,6,94
+84,Cafe Moulu - Marque I,1.4,1.8,2,81
+85,Fromage Cheddar - Marque L,0.6,1.6,9,141
+86,Beurre - Marque G,2.4,1.7,9,144
+87,Sucre en Poudre - Marque B,0.6,1.1,6,87
+88,Bouteille de Jus de Pomme - Marque O1,1.9,1.6,10,111
+89,Roti de Boeuf - Marque D2,1.7,1.3,10,133
+90,Riz Basmati - Marque D,2.8,1.7,1,134
+91,Biere Blonde - Marque X2,2.2,1.8,10,61
+92,Yaourts aux Fruits - Marque F,2.1,1.0,5,108
+93,Citrons - Marque O2,2.0,1.5,7,116
+94,Legumes Surgeles - Marque S1,2.1,1.6,9,137
+95,Cerises - Marque V2,2.5,1.7,8,99
+96,Cerises - Marque V2,0.8,1.2,1,101
+97,Noisettes - Marque G3,2.4,1.6,5,118
+98,Pate Brisee - Marque N1,0.8,1.8,5,84
+99,Raisins - Marque E3,0.5,1.4,10,134
+100,Biscuits au Chocolat - Marque J,1.8,1.1,7,97
+101,Poulet Roti - Marque C2,1.4,1.6,2,77
+102,Barre de Chocolat - Marque G1,1.0,1.0,5,137
+103,Noix de Coco - Marque F3,1.3,1.5,1,128
+104,Bouteille de Jus de Pomme - Marque O1,0.6,1.8,2,71
+105,Bananes - Marque R2,2.5,1.2,7,128
+106,Patates Douces - Marque J2,1.1,1.9,4,134
+107,Bagels - Marque B2,2.4,1.7,7,136
+108,Fromage Cheddar - Marque L,0.8,1.8,3,68
+109,Chocolat Noir - Marque B1,0.8,1.7,1,109
+110,Biere Brune - Marque Y2,0.9,1.6,7,53
+111,Oeufs Frais - Marque R1,0.8,1.8,10,146
+112,Chewing-gums a la Menthe - Marque K1,1.9,1.5,5,94
+113,Cerises - Marque V2,1.6,1.3,4,141
+114,Chocolat Noir - Marque B1,1.2,1.3,8,73
+115,Bagels - Marque B2,2.6,1.9,4,67
+116,Boites de Cereales - Marque X,2.1,1.3,3,50
+117,Craquelins aux Graines de Sesame - Marque A1,1.0,1.5,5,149
+118,Abricots - Marque C3,0.6,1.8,2,150
+119,Pates - Marque A,2.5,1.6,9,127
+120,Saucisses Fumees - Marque Z2,1.2,1.8,3,120
+121,Chips de Mais - Marque Z1,1.7,1.4,5,134
+122,Raisins - Marque E3,2.0,1.0,4,88
+123,Aubergines - Marque L2,2.2,1.2,3,148
+124,Pate a Tartiner au Chocolat - Marque V,1.2,1.4,1,118
+125,Cornichons au Vinaigre - Marque N,2.4,1.1,8,140
+126,Barres de Cereales - Marque L1,2.2,1.0,2,101
+127,Muffins aux Myrtilles - Marque J1,3.0,1.6,1,62
+128,Myrtilles - Marque U2,2.8,1.5,5,58
+129,Lait en Brique - Marque Y,2.9,2.0,10,80
+130,Miel - Marque O,2.9,1.4,4,135
+131,Pate a Tartiner au Chocolat - Marque V,0.7,1.4,7,131
+132,Boites de Cereales - Marque X,1.9,1.6,8,52
+133,Avocat - Marque I2,1.8,1.8,3,90
+134,Pommes - Marque Q2,1.1,1.7,9,96
+135,The Vert - Marque R,3.0,1.5,6,85
+136,Saucisses Fumees - Marque Z2,2.1,1.0,1,135
+137,Courgettes - Marque K2,2.4,1.2,7,141
+138,Yaourts aux Fruits - Marque F,1.8,1.9,2,139
+139,Tomates en Conserve - Marque V1,2.9,1.8,9,101
+140,Aubergines - Marque L2,2.4,1.2,4,102
+141,Saucisses Fumees - Marque Z2,0.7,1.1,5,63
+142,Miel - Marque O,1.2,1.3,8,108
+143,Muffins aux Myrtilles - Marque J1,2.9,1.3,5,98
+144,Riz Basmati - Marque D,2.1,1.4,6,61
+145,Aubergines - Marque L2,2.8,1.7,8,146
+146,Raisins - Marque E3,2.4,1.2,9,79
+147,Pommes - Marque Q2,1.9,1.7,9,57
+148,Poisson Surgele - Marque P,2.5,1.5,1,50
+149,Myrtilles - Marque U2,0.8,1.6,2,96
+150,Chips de Mais - Marque Z1,1.1,1.5,8,78
+151,Oranges - Marque P2,1.3,1.5,6,93
+152,Poisson Surgele - Marque P,2.2,1.2,10,64
+153,Patates Douces - Marque J2,1.9,1.0,10,122
+154,Myrtilles - Marque U2,1.2,1.7,3,64
+155,Chocolat Noir - Marque B1,2.4,1.1,6,103
+156,Pates - Marque A,0.5,1.7,10,50
+157,Myrtilles - Marque U2,2.9,1.0,5,85
+158,Poivrons - Marque M2,2.0,1.6,4,106
+159,Pain de Ble Entier - Marque M,2.5,1.5,8,82
+160,Eau Minerale - Marque T,1.6,1.9,1,115
+161,Soda a l'Orange - Marque D1,1.3,1.9,1,97
+162,Bonbons Gelifies - Marque H1,2.4,1.8,2,139
+163,Bonbons Gelifies - Marque H1,1.4,1.2,4,100
+164,Creme Glacee Vanille - Marque E1,2.1,1.6,3,59
+165,Pommes - Marque Q2,0.8,1.5,10,133
+166,Confiture de Fraise - Marque K,1.1,1.8,7,100
+167,Poivrons - Marque M2,2.0,1.7,10,140
+168,Prunes - Marque D3,2.6,2.0,1,55
+169,Bagels - Marque B2,2.5,1.5,2,64
+170,Chips de Mais - Marque Z1,2.5,1.1,9,137
+171,Cerises - Marque V2,2.1,1.0,6,51
+172,Huile d'Olive - Marque Z,2.0,1.6,9,59
+173,Nectarines - Marque B3,2.2,1.0,4,113
+174,Peches - Marque A3,1.9,1.6,2,89
+175,Salade de Fruits - Marque F2,0.8,1.6,2,70
+176,Creme Glacee Vanille - Marque E1,2.2,1.2,2,117
+177,Poivrons - Marque M2,1.8,1.4,7,57
+178,Peches - Marque A3,2.2,1.4,6,128
+179,Pommes - Marque Q2,2.2,1.2,8,60
+180,Creme Glacee Vanille - Marque E1,0.7,1.9,9,50
+181,The Vert - Marque R,2.5,1.5,9,53
+182,Biscuits au Chocolat - Marque J,2.6,1.7,5,59
+183,The Vert - Marque R,1.6,1.9,7,138
+184,Sauce Tomate - Marque E,0.8,1.2,1,147
+185,Avocat - Marque I2,2.9,2.0,1,123
+186,The Vert - Marque R,2.4,1.2,5,111
+187,Raisins - Marque E3,2.3,1.4,3,86
+188,Cerises - Marque V2,2.2,1.6,8,58
+189,Citrons - Marque O2,2.6,1.6,6,72
+190,Biere Blonde - Marque X2,0.6,1.8,5,114
+191,Citrons - Marque O2,2.8,1.8,5,50
+192,Baguettes de Pain - Marque A2,1.8,1.6,2,105
+193,Sucre en Poudre - Marque B,1.4,1.2,3,116
+194,Bagels - Marque B2,1.4,1.3,8,113
+195,Pate a Tartiner au Chocolat - Marque V,2.3,1.3,10,52
+196,Citrons - Marque O2,1.8,2.0,10,64
+197,Barre de Chocolat - Marque G1,0.8,1.6,4,73
+198,Riz Basmati - Marque D,2.9,2.0,10,57
+199,Jus d'Orange - Marque H,2.9,1.2,4,89
+200,Poisson Surgele - Marque P,1.2,1.7,7,50
+201,Cornichons au Vinaigre - Marque N,2.7,1.8,2,126
+202,Tomates en Conserve - Marque V1,2.8,1.3,3,133
+203,Pates - Marque A,1.4,1.2,8,97
+204,Mangues - Marque X3,2.0,1.8,9,115
+205,Fromage Cheddar - Marque L,2.5,1.2,2,92
+206,Poulet Roti - Marque C2,2.1,1.7,5,123
+207,Baguettes de Pain - Marque A2,1.1,1.3,2,149
+208,Raisins - Marque E3,2.6,1.6,3,118
+209,Eau Minerale - Marque T,1.2,1.6,1,111
+210,Amandes - Marque H3,1.6,1.7,5,138
+211,Biscuits au Chocolat - Marque J,1.5,1.5,9,94
+212,Amandes - Marque H3,0.6,1.9,6,90
+213,Barres de Cereales - Marque L1,0.7,1.4,9,83
+214,Biere Brune - Marque Y2,1.2,1.1,5,122
+215,Cerises - Marque V2,2.3,1.9,6,78
+216,Chips de Riz - Marque W1,2.0,1.6,10,94
+217,Gateau au Fromage - Marque F1,0.5,1.7,10,63
+218,Boites de Cereales - Marque X,0.6,1.1,3,63
+219,Mangues - Marque X3,0.6,1.5,7,55
+220,Noisettes - Marque G3,1.2,1.5,8,111
+221,Tofu - Marque E2,2.4,1.8,5,90
+222,Huile d'Olive - Marque Z,1.6,1.9,3,128
+223,Peches - Marque A3,1.6,1.9,4,141
+224,Boites de Cereales - Marque X,1.6,1.9,2,150
+225,Barres de Cereales - Marque L1,1.9,1.7,7,111
+226,Huile d'Olive - Marque Z,0.5,1.1,10,125
+227,Margarine - Marque U1,1.5,1.2,2,110
+228,Noix de Coco - Marque F3,1.0,1.2,10,148
+229,Biere Blonde - Marque X2,0.5,1.0,2,93
+230,Bacon Fume - Marque Q1,0.7,1.8,4,145
+231,Salade de Fruits - Marque F2,2.6,1.6,9,142
+232,Fraises - Marque S2,2.1,1.8,9,98
+233,Raisins - Marque E3,1.9,1.2,4,117
+234,Riz Basmati - Marque D,0.7,1.3,10,140
+235,Pate Brisee - Marque N1,2.1,1.4,8,89
+236,Prunes - Marque D3,0.9,1.2,7,132
+237,Chewing-gums a la Menthe - Marque K1,0.5,1.8,1,86
+238,Baguettes de Pain - Marque A2,0.5,1.2,1,124
+239,Chips de Mais - Marque Z1,2.6,1.4,3,91
+240,Riz Basmati - Marque D,1.0,1.1,1,71
+241,Margarine - Marque U1,2.0,1.3,6,144
+242,Pate Brisee - Marque N1,1.6,1.8,8,62
+243,Chips de Riz - Marque W1,2.8,1.7,9,83
+244,Raisins - Marque E3,1.3,1.9,8,55
+245,Cafe Moulu - Marque I,1.0,1.2,2,115
+246,Eau Minerale - Marque T,0.6,1.3,9,92
+247,Bonbons Gelifies - Marque H1,1.8,1.6,9,65
+248,Soda a l'Orange - Marque D1,1.7,1.3,1,71
+249,Sauce Tomate - Marque E,1.1,1.2,9,88
+250,Cafe Instantane - Marque Q,2.1,1.9,6,123
+251,Tomates en Conserve - Marque V1,2.0,1.4,5,150
+252,Tofu - Marque E2,2.1,1.5,4,69
+253,Peches - Marque A3,1.6,1.5,3,143
+254,Eau Minerale - Marque T,3.0,1.6,10,70
+255,Champignons en Conserve - Marque U,1.7,2.0,9,79
+256,Bouteille de Jus de Pomme - Marque O1,1.4,1.1,4,132
+257,Barres de Cereales - Marque L1,1.2,1.4,7,113
+258,Salade de Fruits - Marque F2,1.3,1.6,10,124
+259,Pasteque - Marque H2,1.1,1.4,2,124
+260,Biere Brune - Marque Y2,1.5,1.6,2,68
+261,Prunes - Marque D3,1.7,1.1,10,121
+262,Bonbons Gelifies - Marque H1,2.6,1.7,1,126
+263,Margarine - Marque U1,2.6,1.4,2,122
+264,Oeufs Frais - Marque R1,2.0,1.3,8,104
+265,Miel - Marque O,1.4,1.9,1,101
+266,Pasteque - Marque H2,2.0,1.0,1,143
+267,Fromage Cheddar - Marque L,2.7,1.8,2,134
+268,Nectarines - Marque B3,2.8,1.9,10,122
+269,Baguettes de Pain - Marque A2,2.7,1.1,7,55
+270,Chocolat Noir - Marque B1,0.9,1.8,1,86
+271,Yaourts aux Fruits - Marque F,2.5,1.6,4,74
+272,Biscuits au Beurre - Marque I1,1.2,1.6,6,120
+273,Noisettes - Marque G3,1.1,1.4,10,140
+274,Cafe Moulu - Marque I,1.8,2.0,3,148
+275,Thon en Conserve - Marque C,1.2,1.6,10,98
+276,Pates - Marque A,2.0,1.4,8,150
+277,Bananes - Marque R2,0.7,1.7,3,56
+278,Bananes - Marque R2,0.7,1.0,2,84
+279,Abricots - Marque C3,2.2,1.8,6,113
+280,Margarine - Marque U1,0.6,1.9,4,80
+281,Fraises - Marque S2,1.0,1.6,3,136
+282,Bouteille de Vin Blanc - Marque Y1,0.7,1.4,10,57
+283,Thon en Conserve - Marque C,2.5,1.6,2,110
+284,Poulet Roti - Marque C2,1.7,1.5,9,145
+285,Creme Fraiche - Marque T1,0.6,1.3,3,118
+286,Oranges - Marque P2,0.6,1.3,7,128
+287,Lait en Brique - Marque Y,3.0,1.8,3,73
+288,Prunes - Marque D3,0.9,1.4,6,96
+289,Craquelins aux Graines de Sesame - Marque A1,1.6,1.6,4,112
+290,Miel - Marque O,0.6,1.3,6,118
+291,Cafe Moulu - Marque I,1.0,1.4,3,102
+292,Kiwis - Marque Z3,1.3,1.6,8,54
+293,Pain de Ble Entier - Marque M,1.0,1.1,1,119
+294,Chocolat Noir - Marque B1,0.5,1.5,7,94
+295,Pistaches - Marque I3,2.8,1.1,7,55
+296,Avocat - Marque I2,2.6,1.8,4,57
+297,Biere Brune - Marque Y2,2.6,1.7,10,129
+298,Fromage Cheddar - Marque L,0.8,1.4,10,75
+299,Miel - Marque O,2.8,1.1,1,124
+300,Cacahuetes - Marque J3,1.0,1.9,5,79
+301,Myrtilles - Marque U2,1.0,1.4,6,72
+302,Papayes - Marque Y3,2.4,1.3,5,115
+303,Abricots - Marque C3,2.6,1.3,2,72
+304,Chocolat Noir - Marque B1,1.3,1.5,2,140
+305,Eau Minerale - Marque T,2.7,1.7,3,150
+306,Avocat - Marque I2,2.3,1.5,6,85
+307,Pate a Tartiner au Chocolat - Marque V,1.4,1.9,3,140
+308,Cafe Moulu - Marque I,1.9,1.8,7,95
+309,Baguettes de Pain - Marque A2,1.7,1.6,5,84
+310,Nectarines - Marque B3,2.2,1.4,3,109
+311,Framboises - Marque T2,1.7,1.8,10,77
+312,Baguettes de Pain - Marque A2,0.6,1.2,5,52
+313,Papayes - Marque Y3,2.2,1.6,8,144
+314,Biere Blonde - Marque X2,0.5,1.8,1,54
+315,Huile d'Olive - Marque Z,1.1,1.1,2,108
+316,Biscuits au Beurre - Marque I1,2.6,1.7,5,73
+317,Biere Brune - Marque Y2,1.1,1.2,8,103
+318,Chips de Legumes - Marque C1,1.0,1.5,9,52
+319,Roti de Boeuf - Marque D2,2.6,1.8,2,102
+320,Gateau au Fromage - Marque F1,1.7,1.4,9,96
+321,Riz Basmati - Marque D,1.9,1.2,3,67
+322,Thon en Conserve - Marque C,2.5,1.7,6,90
+323,Bouteille de Vin Blanc - Marque Y1,0.7,1.6,2,150
+324,Biere Brune - Marque Y2,2.2,1.8,2,145
+325,Lait en Brique - Marque Y,2.4,1.8,1,96
+326,Creme Fraiche - Marque T1,2.4,1.1,2,95
+327,Bacon Fume - Marque Q1,1.1,1.8,5,148
+328,Melon - Marque G2,2.7,1.5,9,81
+329,Poisson Surgele - Marque P,3.0,1.0,9,115
+330,Confiture de Fraise - Marque K,1.5,1.1,9,82
+331,Thon en Conserve - Marque C,1.3,1.5,1,84
+332,Eau Minerale - Marque T,1.7,1.2,6,131
+333,Patates Douces - Marque J2,2.9,1.9,7,66
+334,Cornichons au Vinaigre - Marque N,2.9,1.7,2,55
+335,Bonbons Gelifies - Marque H1,0.9,1.1,6,67
+336,Margarine - Marque U1,2.6,1.8,6,51
+337,Bouteille de Vin Rouge - Marque X1,1.2,1.0,8,119
+338,Boites de Cereales - Marque X,0.9,1.2,6,124
+339,Riz Basmati - Marque D,0.5,1.8,1,102
+340,Bouteille de Vin Blanc - Marque Y1,2.2,1.4,10,68
+341,The Vert - Marque R,1.0,1.6,1,79
+342,Chips de Legumes - Marque C1,1.3,1.9,3,89
+343,Bonbons Gelifies - Marque H1,2.8,1.3,2,110
+344,Cacahuetes - Marque J3,2.1,1.5,10,133
+345,Creme Fraiche - Marque T1,0.7,1.4,10,95
+346,The Vert - Marque R,0.6,1.0,1,130
+347,Ananas - Marque W2,1.6,1.0,8,104
+348,Oranges - Marque P2,0.8,1.6,2,149
+349,Thon en Conserve - Marque C,2.4,1.2,5,64
+350,Creme Fraiche - Marque T1,1.4,1.6,3,147
+351,Peches - Marque A3,2.9,1.9,4,122
+352,Salade de Fruits - Marque F2,1.1,1.3,7,132
+353,Amandes - Marque H3,2.4,1.7,3,50
+354,Chips de Riz - Marque W1,0.7,1.1,7,138
+355,Pistaches - Marque I3,2.2,1.2,10,138
+356,Raisins - Marque E3,0.8,1.1,10,123
+357,Yaourts aux Fruits - Marque F,0.7,1.3,8,141
+358,Pate Brisee - Marque N1,2.1,1.1,5,83
+359,Cafe Instantane - Marque Q,2.0,1.7,6,120
+360,Pate Brisee - Marque N1,2.8,1.7,4,121
+361,Yaourts aux Fruits - Marque F,1.7,1.1,2,68
+362,Chips de Legumes - Marque C1,0.6,1.9,4,149
+363,Courges - Marque N2,1.2,1.7,10,118
+364,Gateaux Secs - Marque W,0.6,1.1,7,58
+365,Chips de Riz - Marque W1,2.5,1.2,7,96
+366,Prunes - Marque D3,1.3,1.5,4,143
+367,Creme Glacee Vanille - Marque E1,2.3,1.1,7,70
+368,Barres de Cereales - Marque L1,0.8,1.9,5,96
+369,Ananas - Marque W2,2.3,1.4,10,90
+370,Biscuits au Beurre - Marque I1,2.5,1.6,5,78
+371,Yaourts aux Fruits - Marque F,1.8,1.5,4,148
+372,Raisins - Marque E3,1.6,1.4,8,137
+373,Pates - Marque A,1.8,1.4,2,100
+374,Oeufs Frais - Marque R1,2.9,2.0,3,91
+375,Poulet Roti - Marque C2,2.8,1.9,4,59
+376,Tomates en Conserve - Marque V1,1.8,1.0,9,61
+377,Gateau au Fromage - Marque F1,1.3,1.2,5,58
+378,Champignons en Conserve - Marque U,2.4,2.0,7,108
+379,Creme Glacee Vanille - Marque E1,2.2,1.8,5,70
+380,Yaourts aux Fruits - Marque F,2.7,1.1,5,127
+381,Barre de Chocolat - Marque G1,1.5,1.4,8,98
+382,Noix de Coco - Marque F3,1.4,1.3,10,56
+383,Yaourts Nature - Marque M1,1.0,1.5,3,74
+384,Baguettes de Pain - Marque A2,0.9,1.5,6,111
+385,Yaourts aux Fruits - Marque F,1.9,1.0,5,78
+386,Bouteille de Jus de Pomme - Marque O1,1.3,1.7,2,150
+387,Miel - Marque O,1.6,1.5,3,99
+388,Legumes Surgeles - Marque S1,2.1,1.4,7,117
+389,Gateau au Fromage - Marque F1,0.7,1.6,9,90
+390,Bananes - Marque R2,1.1,1.1,1,65
+391,Prunes - Marque D3,1.4,1.6,5,87
+392,Chips de Legumes - Marque C1,0.5,1.5,7,79
+393,Framboises - Marque T2,1.8,1.2,9,104
+394,Yaourts Nature - Marque M1,2.0,1.6,10,107
+395,Oranges - Marque P2,0.6,1.4,10,138
+396,Cacahuetes - Marque J3,1.7,1.0,1,72
+397,Tofu - Marque E2,3.0,1.6,2,107
+398,Soda a l'Orange - Marque D1,1.0,1.3,2,80
+399,Courges - Marque N2,1.2,1.6,7,112
+400,Pommes - Marque Q2,0.9,1.8,4,111
+401,Margarine - Marque U1,0.6,1.5,10,57
+402,Bouteille de Vin Blanc - Marque Y1,2.8,1.6,1,82
+403,Roti de Boeuf - Marque D2,2.3,1.5,6,114
+404,Bagels - Marque B2,2.8,1.4,10,138
+405,Aubergines - Marque L2,1.0,1.9,5,128
+406,Oranges - Marque P2,2.1,1.2,8,142
+407,Muffins aux Myrtilles - Marque J1,2.1,1.1,2,101
+408,Soda a l'Orange - Marque D1,2.9,1.9,5,137
+409,Saucisses Fumees - Marque Z2,1.4,1.5,4,69
+410,Patates Douces - Marque J2,1.9,1.2,3,96
+411,Fraises - Marque S2,2.3,1.7,5,148
+412,Patates Douces - Marque J2,2.7,1.4,10,93
+413,Saucisses Fumees - Marque Z2,2.7,1.0,7,115
+414,Biscuits au Beurre - Marque I1,2.4,1.3,3,56
+415,Chips de Riz - Marque W1,0.6,1.7,6,126
+416,Avocat - Marque I2,1.2,1.6,3,116
+417,Avocat - Marque I2,1.5,1.6,6,129
+418,Oranges - Marque P2,0.7,1.6,8,74
+419,Legumes Surgeles - Marque S1,1.7,1.0,3,117
+420,Eau Minerale - Marque T,1.1,1.5,10,53
+421,Patates Douces - Marque J2,1.9,2.0,7,120
+422,Yaourts Nature - Marque M1,1.9,1.8,8,60
+423,Jus d'Orange - Marque H,2.6,1.3,2,87
+424,Patates Douces - Marque J2,1.0,1.0,7,82
+425,Muffins aux Myrtilles - Marque J1,2.4,1.6,10,79
+426,Chips de Mais - Marque Z1,2.1,1.1,3,87
+427,Yaourts Nature - Marque M1,1.1,1.3,4,108
+428,Bouteille de Vin Rouge - Marque X1,2.4,1.6,7,73
+429,Confiture de Fraise - Marque K,2.0,1.5,9,69
+430,Poivrons - Marque M2,0.5,1.8,3,125
+431,Courgettes - Marque K2,0.9,1.6,7,145
+432,Boites de Cereales - Marque X,2.1,1.4,9,104
+433,Barres de Cereales - Marque L1,2.2,1.8,8,63
+434,Aubergines - Marque L2,1.5,1.7,8,61
+435,Jambon Cuit - Marque P1,1.9,1.0,3,130
+436,Biere Blonde - Marque X2,1.1,1.7,4,148
+437,Papayes - Marque Y3,2.6,1.0,4,144
+438,Miel - Marque O,0.8,1.1,8,99
+439,Bananes - Marque R2,2.6,1.3,6,65
+440,Lait en Brique - Marque Y,1.1,1.1,6,131
+441,Biere Brune - Marque Y2,1.0,1.3,7,99
+442,Jus d'Orange - Marque H,1.7,2.0,6,134
+443,Citrons - Marque O2,2.3,1.6,7,120
+444,Craquelins aux Graines de Sesame - Marque A1,1.2,1.4,4,77
+445,Fromage Cheddar - Marque L,0.7,1.1,3,127
+446,Pain de Ble Entier - Marque M,0.8,1.3,2,143
+447,Chips de Pommes de Terre - Marque S,1.4,1.2,9,119
+448,Confiture de Fraise - Marque K,0.6,1.7,6,118
+449,Cafe Instantane - Marque Q,2.7,1.7,9,138
+450,Noix de Coco - Marque F3,0.8,1.2,7,148
+451,Cafe Moulu - Marque I,0.8,1.1,7,126
+452,Biscuits au Beurre - Marque I1,2.1,1.6,7,68
+453,Gateau au Fromage - Marque F1,2.8,1.2,4,134
+454,Beurre - Marque G,2.6,1.2,5,135
+455,Pasteque - Marque H2,0.6,1.9,10,118
+456,Amandes - Marque H3,1.3,1.2,6,102
+457,Amandes - Marque H3,3.0,1.7,2,91
+458,Mangues - Marque X3,2.3,1.7,10,110
+459,Jambon Cuit - Marque P1,2.4,1.8,4,137
+460,Thon en Conserve - Marque C,1.4,1.8,3,115
+461,Yaourts Nature - Marque M1,1.4,1.5,8,72
+462,Oeufs Frais - Marque R1,2.4,1.8,6,70
+463,Kiwis - Marque Z3,2.2,2.0,10,125
+464,Cafe Instantane - Marque Q,1.5,1.3,10,149
+465,Eau Minerale - Marque T,1.4,1.7,1,117
+466,Avocat - Marque I2,0.7,2.0,6,110
+467,Bacon Fume - Marque Q1,1.0,1.8,8,104
+468,Myrtilles - Marque U2,2.2,1.5,4,108
+469,Cacahuetes - Marque J3,2.9,1.4,1,91
+470,Gateaux Secs - Marque W,2.5,1.3,7,116
+471,Boites de Cereales - Marque X,1.4,2.0,9,84
+472,Pommes - Marque Q2,2.6,1.9,4,65
+473,Gateaux Secs - Marque W,2.2,2.0,5,65
+474,Abricots - Marque C3,1.1,1.6,9,58
+475,Gateaux Secs - Marque W,1.5,1.9,3,102
+476,Chips de Legumes - Marque C1,2.7,1.9,3,93
+477,Muffins aux Myrtilles - Marque J1,1.5,1.6,5,71
+478,Chewing-gums a la Menthe - Marque K1,1.4,1.8,7,115
+479,Oranges - Marque P2,0.7,1.1,9,116
+480,Confiture de Fraise - Marque K,1.4,1.2,2,56
+481,Noisettes - Marque G3,1.6,1.5,8,118
+482,Chips de Pommes de Terre - Marque S,1.2,1.3,1,105
+483,Pasteque - Marque H2,0.7,1.9,5,118
+484,Gateau au Fromage - Marque F1,1.9,1.7,3,134
+485,Craquelins aux Graines de Sesame - Marque A1,2.3,1.1,7,122
+486,Ananas - Marque W2,1.2,1.7,1,58
+487,Beurre - Marque G,2.0,1.7,5,67
+488,Bacon Fume - Marque Q1,0.7,1.0,3,67
+489,Eau Minerale - Marque T,3.0,1.6,1,68
+490,Baguettes de Pain - Marque A2,1.4,1.4,3,91
+491,Bananes - Marque R2,1.7,1.3,8,132
+492,Gateaux Secs - Marque W,0.7,1.4,5,52
+493,Pasteque - Marque H2,0.9,1.8,2,148
+494,Avocat - Marque I2,1.4,1.5,9,134
+495,Barres de Cereales - Marque L1,1.1,1.3,8,148
+496,Sauce Tomate - Marque E,1.7,1.2,4,81
+497,Pasteque - Marque H2,2.2,1.1,2,137
+498,Biscuits au Beurre - Marque I1,1.1,1.0,5,130
+499,Bouteille de Jus de Pomme - Marque O1,1.3,1.1,2,138
+500,Barres de Cereales - Marque L1,2.5,1.4,1,126
+501,Boites de Cereales - Marque X,2.2,1.5,10,63
+502,Sauce Tomate - Marque E,2.0,1.6,6,132
+503,Bouteille de Vin Rouge - Marque X1,2.0,1.1,3,100
+504,Bagels - Marque B2,2.4,1.3,6,131
+505,Cerises - Marque V2,2.9,1.7,2,64
+506,Yaourts aux Fruits - Marque F,0.6,1.4,6,132
+507,Baguettes de Pain - Marque A2,3.0,1.0,9,96
+508,Confiture de Fraise - Marque K,1.3,1.4,7,133
+509,Patates Douces - Marque J2,0.8,1.8,9,96
+510,Oranges - Marque P2,2.6,1.2,5,62
+511,The Vert - Marque R,2.4,1.6,9,128
+512,Cafe Instantane - Marque Q,1.8,2.0,2,108
+513,Oranges - Marque P2,1.0,1.2,2,58
+514,Cacahuetes - Marque J3,0.6,1.7,7,81
+515,Cafe Moulu - Marque I,0.7,1.6,6,62
+516,Framboises - Marque T2,2.3,1.4,4,83
+517,Chips de Mais - Marque Z1,2.7,1.4,5,52
+518,Bananes - Marque R2,1.7,1.1,1,112
+519,Jus d'Orange - Marque H,3.0,1.6,1,88
+520,Gateaux Secs - Marque W,2.8,1.2,2,71
+521,Papayes - Marque Y3,0.6,1.4,1,91
+522,Sucre en Poudre - Marque B,2.0,1.3,6,51
+523,Amandes - Marque H3,2.6,1.4,7,52
+524,Melon - Marque G2,2.0,1.5,9,99
+525,Baguettes de Pain - Marque A2,1.0,1.6,5,51
+526,Papayes - Marque Y3,0.9,1.1,5,82
+527,Amandes - Marque H3,1.5,1.5,10,90
+528,Fraises - Marque S2,2.1,1.1,4,141
+529,Noix de Coco - Marque F3,1.9,1.8,10,71
+530,Legumes Surgeles - Marque S1,2.2,1.8,1,82
+531,Noisettes - Marque G3,2.7,1.1,10,98
+532,Chips de Mais - Marque Z1,0.6,1.5,2,122
+533,Gateaux Secs - Marque W,2.7,1.0,8,96
+534,Muffins aux Myrtilles - Marque J1,1.5,1.6,5,103
+535,Pates - Marque A,2.8,1.3,5,88
+536,Margarine - Marque U1,2.9,1.1,2,69
+537,Bouteille de Vin Blanc - Marque Y1,1.6,1.0,3,149
+538,Cerises - Marque V2,1.7,1.7,10,118
+539,Courges - Marque N2,2.1,1.8,7,69
+540,Eau Minerale - Marque T,1.0,1.8,9,84
+541,Yaourts Nature - Marque M1,1.4,2.0,7,53
+542,Miel - Marque O,3.0,1.4,6,148
+543,Nectarines - Marque B3,1.6,1.5,5,52
+544,Kiwis - Marque Z3,2.5,1.3,10,83
+545,The Vert - Marque R,0.9,2.0,1,119
+546,Confiture de Fraise - Marque K,1.2,1.8,5,105
+547,Thon en Conserve - Marque C,2.2,1.8,2,149
+548,Sauce Tomate - Marque E,2.4,1.3,9,115
+549,Miel - Marque O,2.3,1.4,2,90
+550,Abricots - Marque C3,1.7,1.2,10,126
+551,Jus d'Orange - Marque H,0.7,1.5,3,139
+552,Melon - Marque G2,0.6,1.7,8,145
+553,Craquelins aux Graines de Sesame - Marque A1,2.4,2.0,8,129
+554,Gateaux Secs - Marque W,2.9,1.5,5,94
+555,Bouteille de Jus de Pomme - Marque O1,2.5,1.1,4,61
+556,Raisins - Marque E3,2.4,1.7,8,108
+557,Pommes - Marque Q2,1.0,1.0,3,139
+558,Courgettes - Marque K2,1.6,1.7,9,77
+559,Citrons - Marque O2,2.5,1.5,8,142
+560,Riz Basmati - Marque D,1.7,1.2,1,133
+561,Bonbons Gelifies - Marque H1,0.9,1.7,5,130
+562,Avocat - Marque I2,1.0,1.4,8,92
+563,Nectarines - Marque B3,0.8,1.9,4,91
+564,Creme Fraiche - Marque T1,2.7,1.6,9,105
+565,Ananas - Marque W2,1.0,1.7,3,108
+566,Kiwis - Marque Z3,2.2,1.2,9,125
+567,Tofu - Marque E2,2.8,1.8,3,63
+568,Pistaches - Marque I3,2.2,1.8,5,146
+569,Boites de Cereales - Marque X,1.8,1.2,7,64
+570,Oeufs Frais - Marque R1,1.2,1.9,3,70
+571,Oeufs Frais - Marque R1,0.8,1.2,2,65
+572,Poulet Roti - Marque C2,0.8,1.9,4,59
+573,Barre de Chocolat - Marque G1,2.8,1.9,6,97
+574,Biscuits au Chocolat - Marque J,2.4,1.7,10,50
+575,Bouteille de Jus de Pomme - Marque O1,2.5,1.5,2,126
+576,Confiture de Fraise - Marque K,1.2,1.4,8,86
+577,Creme Glacee Vanille - Marque E1,1.3,1.6,5,116
+578,Pommes - Marque Q2,0.6,1.5,10,111
+579,Poisson Surgele - Marque P,2.3,1.6,3,97
+580,Aubergines - Marque L2,2.4,1.0,1,120
+581,Confiture de Fraise - Marque K,2.2,1.5,7,107
+582,Legumes Surgeles - Marque S1,1.6,1.2,8,53
+583,Confiture de Fraise - Marque K,0.6,1.8,1,60
+584,Fraises - Marque S2,1.3,1.5,5,99
+585,Cacahuetes - Marque J3,2.7,1.8,7,123
+586,Poisson Surgele - Marque P,1.2,1.6,3,98
+587,Bacon Fume - Marque Q1,1.4,1.6,4,51
+588,Fromage Cheddar - Marque L,1.0,1.5,10,102
+589,Courges - Marque N2,2.7,1.9,9,68
+590,Cornichons au Vinaigre - Marque N,0.9,1.4,9,125
+591,Gateaux Secs - Marque W,2.1,1.1,3,144
+592,Pasteque - Marque H2,1.1,1.8,4,103
+593,Bouteille de Vin Blanc - Marque Y1,1.4,1.1,2,124
+594,Yaourts aux Fruits - Marque F,1.1,1.4,8,126
+595,Pasteque - Marque H2,2.6,1.9,2,122
+596,Bananes - Marque R2,1.9,1.4,5,99
+597,Biscuits au Chocolat - Marque J,2.7,1.8,4,127
+598,Chocolat Noir - Marque B1,3.0,1.2,10,114
+599,Aubergines - Marque L2,1.3,1.5,9,101
+600,Cafe Instantane - Marque Q,2.4,2.0,1,66
+601,Fromage Cheddar - Marque L,2.2,1.6,6,75
+602,Kiwis - Marque Z3,1.4,1.4,4,98
+603,Salade de Fruits - Marque F2,1.3,1.7,9,78
+604,Bananes - Marque R2,1.7,1.5,7,139
+605,Citrons - Marque O2,2.2,1.8,7,118
+606,Lait en Brique - Marque Y,2.9,1.3,10,74
+607,Baguettes de Pain - Marque A2,2.7,1.7,7,104
+608,Poisson Surgele - Marque P,1.6,1.3,5,126
+609,Roti de Boeuf - Marque D2,2.3,1.4,10,137
+610,Pain de Ble Entier - Marque M,1.1,1.7,1,102
+611,Bouteille de Vin Rouge - Marque X1,2.1,1.4,5,125
+612,Chocolat Noir - Marque B1,1.5,1.8,2,96
+613,Tomates en Conserve - Marque V1,2.0,1.8,9,60
+614,Cornichons au Vinaigre - Marque N,1.0,1.9,7,62
+615,Myrtilles - Marque U2,1.3,1.3,3,93
+616,Ananas - Marque W2,2.8,1.1,9,72
+617,Bananes - Marque R2,3.0,1.6,7,53
+618,Peches - Marque A3,0.7,1.2,1,67
+619,Gateaux Secs - Marque W,2.9,1.1,5,106
+620,Patates Douces - Marque J2,2.4,1.8,3,137
+621,Barre de Chocolat - Marque G1,1.8,1.3,3,86
+622,Chips de Pommes de Terre - Marque S,3.0,1.2,4,121
+623,Prunes - Marque D3,2.2,1.2,8,97
+624,Courges - Marque N2,0.8,1.8,2,123
+625,Papayes - Marque Y3,1.6,1.6,6,66
+626,Kiwis - Marque Z3,2.3,1.8,6,58
+627,Pate Brisee - Marque N1,2.5,1.5,4,63
+628,Boites de Cereales - Marque X,1.2,1.1,8,137
+629,Chips de Legumes - Marque C1,2.4,1.9,10,115
+630,Biere Blonde - Marque X2,2.9,1.1,10,120
+631,The Vert - Marque R,2.2,1.6,2,114
+632,Poivrons - Marque M2,1.9,1.6,5,146
+633,Ananas - Marque W2,3.0,1.3,6,103
+634,Raisins - Marque E3,1.4,1.3,4,50
+635,Yaourts aux Fruits - Marque F,0.9,1.4,6,53
+636,Creme Fraiche - Marque T1,1.0,1.9,8,129
+637,Creme Glacee Vanille - Marque E1,2.5,2.0,1,94
+638,Pain de Ble Entier - Marque M,2.0,1.8,9,58
+639,Courgettes - Marque K2,2.3,1.1,1,86
+640,Mangues - Marque X3,2.0,1.9,3,137
+641,Confiture de Fraise - Marque K,2.7,1.1,3,91
+642,Nectarines - Marque B3,1.0,1.6,8,122
+643,Tomates en Conserve - Marque V1,1.1,1.8,7,129
+644,Sauce Tomate - Marque E,1.7,1.6,4,121
+645,Myrtilles - Marque U2,1.1,1.8,5,142
+646,Abricots - Marque C3,0.7,1.8,9,131
+647,Oranges - Marque P2,2.8,1.9,3,75
+648,Nectarines - Marque B3,2.1,1.5,6,105
+649,Biscuits au Chocolat - Marque J,2.3,1.9,7,116
+650,Cafe Instantane - Marque Q,0.7,1.0,1,71
+651,Avocat - Marque I2,0.6,1.6,8,79
+652,Fromage Cheddar - Marque L,2.6,1.3,3,142
+653,Chips de Pommes de Terre - Marque S,2.4,1.6,5,144
+654,Soda a l'Orange - Marque D1,2.0,1.5,9,105
+655,Champignons en Conserve - Marque U,1.9,1.8,9,149
+656,Cafe Instantane - Marque Q,2.8,1.2,8,132
+657,Amandes - Marque H3,1.9,1.6,8,113
+658,Barres de Cereales - Marque L1,2.7,1.2,10,143
+659,Cornichons au Vinaigre - Marque N,1.1,1.6,4,114
+660,Chips de Riz - Marque W1,1.8,1.0,3,118
+661,Saucisses Fumees - Marque Z2,0.9,1.6,9,101
+662,Noisettes - Marque G3,1.2,1.7,6,119
+663,Myrtilles - Marque U2,2.6,1.2,9,56
+664,Chips de Pommes de Terre - Marque S,2.1,1.3,6,108
+665,Bananes - Marque R2,2.2,2.0,2,108
+666,Poulet Roti - Marque C2,1.3,1.1,5,111
+667,Bananes - Marque R2,2.3,1.7,9,100
+668,Yaourts Nature - Marque M1,2.4,1.1,5,111
+669,Noix de Coco - Marque F3,1.6,1.6,4,77
+670,Tofu - Marque E2,2.7,1.6,1,62
+671,Cerises - Marque V2,2.9,1.9,5,117
+672,Fromage Cheddar - Marque L,2.2,1.3,1,71
+673,Chips de Pommes de Terre - Marque S,1.8,1.2,7,72
+674,Yaourts aux Fruits - Marque F,2.9,1.0,3,97
+675,Creme Glacee Vanille - Marque E1,1.1,2.0,3,145
+676,Bacon Fume - Marque Q1,2.8,1.8,8,134
+677,Legumes Surgeles - Marque S1,2.0,1.2,9,128
+678,Jus d'Orange - Marque H,2.3,2.0,2,61
+679,Margarine - Marque U1,0.7,1.5,6,126
+680,Barre de Chocolat - Marque G1,1.2,1.1,1,62
+681,Cornichons au Vinaigre - Marque N,0.9,1.5,2,61
+682,Abricots - Marque C3,2.3,1.5,7,95
+683,Gateau au Fromage - Marque F1,2.5,1.2,7,118
+684,Legumes Surgeles - Marque S1,1.6,1.8,1,55
+685,Gateaux Secs - Marque W,2.7,1.6,3,96
+686,Legumes Surgeles - Marque S1,1.3,1.8,7,103
+687,Bonbons Gelifies - Marque H1,0.7,1.6,4,65
+688,Poulet Roti - Marque C2,0.9,1.3,2,68
+689,Abricots - Marque C3,2.0,1.3,5,108
+690,Bonbons Gelifies - Marque H1,1.6,1.8,9,123
+691,Chips de Legumes - Marque C1,0.7,1.9,4,142
+692,Melon - Marque G2,0.6,1.3,5,59
+693,Peches - Marque A3,0.7,1.3,7,50
+694,Eau Minerale - Marque T,2.1,1.3,10,57
+695,Pain de Ble Entier - Marque M,0.8,1.6,8,146
+696,Bouteille de Jus de Pomme - Marque O1,2.4,1.3,7,79
+697,Pistaches - Marque I3,2.4,1.7,4,62
+698,Lait en Brique - Marque Y,2.8,2.0,10,125
+699,Salade de Fruits - Marque F2,2.5,1.3,3,65
+700,Pasteque - Marque H2,2.8,1.9,5,100
+701,Margarine - Marque U1,1.2,1.0,2,137
+702,Muffins aux Myrtilles - Marque J1,1.2,1.8,7,127
+703,Gateau au Fromage - Marque F1,1.0,1.4,2,64
+704,Chocolat Noir - Marque B1,2.5,1.1,1,121
+705,Tofu - Marque E2,1.5,1.8,8,108
+706,Barres de Cereales - Marque L1,0.7,1.4,3,53
+707,Riz Basmati - Marque D,2.2,1.6,7,50
+708,Bonbons Gelifies - Marque H1,2.4,1.7,1,112
+709,The Vert - Marque R,1.8,1.4,10,93
+710,Melon - Marque G2,0.6,1.9,4,72
+711,Gateau au Fromage - Marque F1,0.7,1.6,6,139
+712,Legumes Surgeles - Marque S1,1.8,1.1,9,77
+713,Bouteille de Vin Blanc - Marque Y1,2.2,1.9,2,50
+714,Peches - Marque A3,2.1,1.9,9,144
+715,Pistaches - Marque I3,2.3,1.9,7,84
+716,Poulet Roti - Marque C2,2.5,1.0,1,149
+717,Yaourts aux Fruits - Marque F,2.1,1.8,3,96
+718,Bagels - Marque B2,1.8,1.4,10,51
+719,Tofu - Marque E2,1.5,2.0,2,67
+720,Craquelins aux Graines de Sesame - Marque A1,1.4,1.9,4,150
+721,Noisettes - Marque G3,1.1,1.7,8,118
+722,Pates - Marque A,1.1,1.3,2,83
+723,Margarine - Marque U1,1.0,1.5,3,117
+724,Champignons en Conserve - Marque U,1.2,1.2,3,84
+725,Jambon Cuit - Marque P1,2.0,1.6,6,102
+726,Beurre - Marque G,2.3,1.1,4,83
+727,Jambon Cuit - Marque P1,1.2,1.9,4,58
+728,Citrons - Marque O2,1.6,1.5,1,67
+729,Muffins aux Myrtilles - Marque J1,1.4,1.2,4,96
+730,Champignons en Conserve - Marque U,1.8,1.2,2,108
+731,Margarine - Marque U1,1.9,1.2,5,107
+732,Yaourts aux Fruits - Marque F,1.3,1.8,9,132
+733,Chips de Pommes de Terre - Marque S,2.8,1.1,3,70
+734,Bouteille de Jus de Pomme - Marque O1,2.1,1.6,7,106
+735,Tofu - Marque E2,0.8,1.1,5,88
+736,Bananes - Marque R2,0.7,1.8,5,123
+737,Miel - Marque O,1.5,1.5,2,81
+738,Pate Brisee - Marque N1,0.8,1.6,9,120
+739,Biere Blonde - Marque X2,1.4,1.0,10,117
+740,Creme Fraiche - Marque T1,2.1,1.9,4,122
+741,Oranges - Marque P2,1.8,1.7,3,108
+742,Noix de Coco - Marque F3,2.5,1.5,2,95
+743,Barres de Cereales - Marque L1,2.4,1.5,5,60
+744,Cacahuetes - Marque J3,2.3,1.8,6,53
+745,Nectarines - Marque B3,2.0,1.5,5,135
+746,Avocat - Marque I2,2.5,1.9,3,141
+747,Legumes Surgeles - Marque S1,2.3,1.4,9,136
+748,Margarine - Marque U1,2.9,1.1,7,107
+749,Yaourts Nature - Marque M1,0.8,1.9,7,85
+750,Salade de Fruits - Marque F2,1.4,1.7,6,107
+751,Baguettes de Pain - Marque A2,2.0,1.5,2,87
+752,Yaourts aux Fruits - Marque F,2.5,1.4,7,81
+753,Eau Minerale - Marque T,1.6,1.6,6,116
+754,Papayes - Marque Y3,2.0,1.3,9,70
+755,Eau Minerale - Marque T,0.6,1.5,4,69
+756,Fromage Cheddar - Marque L,2.7,1.0,10,138
+757,Poivrons - Marque M2,1.4,1.4,10,101
+758,Thon en Conserve - Marque C,2.0,1.6,9,113
+759,Peches - Marque A3,1.0,1.8,8,113
+760,Thon en Conserve - Marque C,1.8,1.0,10,94
+761,Amandes - Marque H3,0.7,1.2,4,51
+762,Chips de Pommes de Terre - Marque S,1.8,1.9,7,105
+763,Chips de Legumes - Marque C1,1.9,1.6,5,91
+764,Pasteque - Marque H2,1.5,1.2,6,110
+765,Gateau au Fromage - Marque F1,1.6,1.2,8,111
+766,Peches - Marque A3,1.5,1.6,6,114
+767,Courgettes - Marque K2,2.3,1.2,3,61
+768,Fromage Cheddar - Marque L,2.7,1.5,7,67
+769,Bagels - Marque B2,0.8,1.3,7,53
+770,Melon - Marque G2,0.6,1.8,6,86
+771,Fraises - Marque S2,1.7,1.1,5,118
+772,Chips de Legumes - Marque C1,0.6,1.4,10,131
+773,Sucre en Poudre - Marque B,2.2,1.2,2,66
+774,Poulet Roti - Marque C2,1.6,1.3,6,67
+775,Cerises - Marque V2,1.6,1.7,10,73
+776,Thon en Conserve - Marque C,2.0,1.6,9,81
+777,Barre de Chocolat - Marque G1,1.3,2.0,1,60
+778,Confiture de Fraise - Marque K,0.9,1.2,8,125
+779,Cornichons au Vinaigre - Marque N,1.8,1.2,9,90
+780,Chips de Mais - Marque Z1,2.2,1.4,1,150
+781,Kiwis - Marque Z3,2.7,1.9,9,78
+782,Abricots - Marque C3,2.6,1.6,1,144
+783,Jus d'Orange - Marque H,1.2,1.0,1,81
+784,The Vert - Marque R,2.4,1.0,8,101
+785,Courges - Marque N2,1.9,1.3,1,58
+786,Framboises - Marque T2,2.7,1.6,1,123
+787,Lait en Brique - Marque Y,0.8,1.2,10,50
+788,Biscuits au Beurre - Marque I1,2.6,1.6,8,135
+789,The Vert - Marque R,0.6,1.5,9,99
+790,Papayes - Marque Y3,2.6,1.1,2,106
+791,Bouteille de Vin Blanc - Marque Y1,1.1,1.1,1,130
+792,Poisson Surgele - Marque P,0.7,1.9,6,93
+793,Miel - Marque O,1.3,1.5,8,81
+794,Cornichons au Vinaigre - Marque N,1.1,1.6,9,127
+795,Poisson Surgele - Marque P,1.6,1.2,2,100
+796,Confiture de Fraise - Marque K,0.6,1.3,10,133
+797,Peches - Marque A3,0.7,1.5,7,85
+798,Pistaches - Marque I3,1.8,1.5,5,88
+799,Pates - Marque A,0.6,1.5,3,73
+800,Raisins - Marque E3,1.4,1.3,8,126
+801,Biscuits au Chocolat - Marque J,0.9,1.1,9,75
+802,Pate a Tartiner au Chocolat - Marque V,2.4,1.8,1,135
+803,Oeufs Frais - Marque R1,2.5,1.6,4,116
+804,Cerises - Marque V2,2.7,1.1,5,104
+805,Jus d'Orange - Marque H,2.3,1.8,3,116
+806,Raisins - Marque E3,1.1,1.4,5,81
+807,Poivrons - Marque M2,2.2,1.9,7,116
+808,Legumes Surgeles - Marque S1,2.6,1.5,8,150
+809,Peches - Marque A3,2.2,1.3,10,80
+810,Patates Douces - Marque J2,0.8,1.8,1,86
+811,Boites de Cereales - Marque X,1.3,1.4,9,70
+812,Biere Blonde - Marque X2,0.7,1.5,4,87
+813,Fromage Cheddar - Marque L,0.9,1.4,4,61
+814,Prunes - Marque D3,2.4,1.4,2,59
+815,Bouteille de Vin Blanc - Marque Y1,2.8,1.4,2,87
+816,Barre de Chocolat - Marque G1,2.4,1.5,6,126
+817,Thon en Conserve - Marque C,2.0,1.6,3,68
+818,Bonbons Gelifies - Marque H1,1.1,1.8,9,92
+819,Abricots - Marque C3,1.6,1.3,6,52
+820,Pain de Ble Entier - Marque M,0.8,1.5,3,72
+821,Myrtilles - Marque U2,1.8,1.9,8,89
+822,Boites de Cereales - Marque X,0.7,1.0,9,147
+823,Saucisses Fumees - Marque Z2,0.6,1.3,7,60
+824,Chips de Mais - Marque Z1,1.0,1.6,8,68
+825,Saucisses Fumees - Marque Z2,1.5,1.2,5,101
+826,Bagels - Marque B2,0.9,1.5,3,71
+827,Fromage Cheddar - Marque L,1.2,1.5,9,53
+828,Gateau au Fromage - Marque F1,2.7,1.5,9,102
+829,Yaourts Nature - Marque M1,1.6,1.0,8,83
+830,Citrons - Marque O2,1.3,1.4,2,60
+831,Cafe Moulu - Marque I,0.8,1.8,8,134
+832,Prunes - Marque D3,0.8,1.6,7,74
+833,Chips de Mais - Marque Z1,2.3,1.1,10,104
+834,Salade de Fruits - Marque F2,1.7,1.0,7,97
+835,Biscuits au Beurre - Marque I1,2.7,1.6,8,84
+836,Legumes Surgeles - Marque S1,2.1,1.1,1,66
+837,Jus d'Orange - Marque H,2.9,1.0,8,92
+838,Oeufs Frais - Marque R1,1.2,1.8,9,68
+839,Oranges - Marque P2,2.3,1.4,6,119
+840,Melon - Marque G2,2.0,1.8,5,138
+841,Biscuits au Beurre - Marque I1,1.8,1.8,8,57
+842,Noix de Coco - Marque F3,2.8,1.8,6,144
+843,Barres de Cereales - Marque L1,2.4,1.9,5,88
+844,Biere Blonde - Marque X2,2.1,1.4,5,110
+845,Miel - Marque O,1.1,1.5,2,69
+846,Bacon Fume - Marque Q1,2.5,1.8,7,95
+847,Peches - Marque A3,2.4,1.6,1,77
+848,Legumes Surgeles - Marque S1,2.7,1.7,2,75
+849,Poulet Roti - Marque C2,0.6,1.7,5,65
+850,Riz Basmati - Marque D,1.4,1.8,7,136
+851,Oeufs Frais - Marque R1,1.6,2.0,3,117
+852,Legumes Surgeles - Marque S1,0.5,1.1,6,127
+853,Prunes - Marque D3,2.3,1.0,4,137
+854,Chips de Pommes de Terre - Marque S,1.0,1.6,2,126
+855,Pain de Ble Entier - Marque M,1.0,1.6,3,139
+856,Poisson Surgele - Marque P,1.3,1.8,1,58
+857,Melon - Marque G2,2.3,1.3,2,63
+858,Cerises - Marque V2,2.5,1.5,5,83
+859,Cornichons au Vinaigre - Marque N,1.1,1.5,1,102
+860,Beurre - Marque G,1.0,1.7,8,114
+861,Sauce Tomate - Marque E,2.1,1.4,9,65
+862,Mangues - Marque X3,1.6,1.9,9,51
+863,Chips de Riz - Marque W1,2.4,1.6,10,109
+864,Jus d'Orange - Marque H,0.6,1.9,5,143
+865,Poivrons - Marque M2,2.8,1.7,2,124
+866,Oranges - Marque P2,0.5,1.3,1,93
+867,Pasteque - Marque H2,0.9,1.1,10,120
+868,Pasteque - Marque H2,1.9,1.8,10,80
+869,Biscuits au Chocolat - Marque J,0.7,1.7,3,107
+870,Oranges - Marque P2,1.5,1.9,10,66
+871,Cafe Instantane - Marque Q,0.6,1.1,4,67
+872,Biere Blonde - Marque X2,1.7,1.5,7,118
+873,Biere Blonde - Marque X2,2.4,1.7,7,145
+874,Gateau au Fromage - Marque F1,1.6,1.6,9,57
+875,Roti de Boeuf - Marque D2,2.4,1.1,3,131
+876,Chips de Mais - Marque Z1,2.4,2.0,2,70
+877,Pasteque - Marque H2,2.9,1.5,3,89
+878,Pommes - Marque Q2,2.7,1.0,9,100
+879,Legumes Surgeles - Marque S1,1.6,1.8,6,123
+880,Biere Brune - Marque Y2,1.3,1.4,4,66
+881,Salade de Fruits - Marque F2,1.0,1.9,7,100
+882,Gateau au Fromage - Marque F1,2.9,1.5,6,67
+883,Chips de Mais - Marque Z1,1.7,1.4,6,142
+884,Huile d'Olive - Marque Z,2.2,1.3,10,102
+885,Soda a l'Orange - Marque D1,2.0,1.8,3,94
+886,Patates Douces - Marque J2,2.9,1.5,1,142
+887,Cafe Moulu - Marque I,1.4,1.8,5,61
+888,Abricots - Marque C3,2.0,1.8,8,145
+889,Boites de Cereales - Marque X,1.8,1.9,2,82
+890,Bananes - Marque R2,2.9,1.6,4,66
+891,Fraises - Marque S2,2.5,1.7,10,82
+892,Cafe Instantane - Marque Q,2.4,1.7,1,85
+893,Champignons en Conserve - Marque U,0.8,1.3,2,146
+894,Courgettes - Marque K2,1.9,1.5,9,76
+895,Pasteque - Marque H2,1.5,1.5,8,75
+896,Barres de Cereales - Marque L1,1.5,2.0,5,77
+897,Barre de Chocolat - Marque G1,1.9,1.3,6,124
+898,The Vert - Marque R,1.6,1.2,8,105
+899,Champignons en Conserve - Marque U,2.5,1.8,9,55
+900,Bananes - Marque R2,2.9,1.2,1,143
+901,Tofu - Marque E2,1.5,1.8,4,136
+902,Bananes - Marque R2,0.5,1.5,4,144
+903,Chips de Riz - Marque W1,1.4,1.3,7,72
+904,Gateau au Fromage - Marque F1,1.4,1.9,5,80
+905,Baguettes de Pain - Marque A2,2.1,1.2,7,71
+906,Poulet Roti - Marque C2,0.6,2.0,6,144
+907,Bouteille de Vin Rouge - Marque X1,1.1,1.8,8,64
+908,Prunes - Marque D3,2.7,1.2,3,71
+909,Biscuits au Chocolat - Marque J,1.0,1.2,2,52
+910,Gateaux Secs - Marque W,2.3,1.6,7,137
+911,Chips de Legumes - Marque C1,2.3,1.4,7,114
+912,Fraises - Marque S2,2.9,1.8,10,131
+913,Tofu - Marque E2,0.9,1.9,9,64
+914,Miel - Marque O,1.9,1.8,2,78
+915,Oeufs Frais - Marque R1,2.4,1.7,4,63
+916,Chocolat Noir - Marque B1,0.9,1.7,1,57
+917,Pommes - Marque Q2,1.5,1.2,10,139
+918,Legumes Surgeles - Marque S1,1.9,1.7,3,122
+919,Nectarines - Marque B3,2.9,1.7,3,89
+920,Courges - Marque N2,1.1,1.5,1,118
+921,Huile d'Olive - Marque Z,1.4,1.7,10,142
+922,Bonbons Gelifies - Marque H1,2.6,2.0,10,145
+923,Yaourts Nature - Marque M1,1.5,1.9,3,141
+924,Pate Brisee - Marque N1,0.7,1.2,9,142
+925,Creme Fraiche - Marque T1,1.7,1.3,1,53
+926,Poulet Roti - Marque C2,0.5,1.7,1,124
+927,Biere Blonde - Marque X2,1.9,1.6,7,76
+928,Yaourts Nature - Marque M1,2.5,1.3,4,150
+929,Chips de Mais - Marque Z1,2.8,1.0,9,93
+930,Bouteille de Vin Rouge - Marque X1,1.7,1.5,1,61
+931,Courgettes - Marque K2,0.6,1.0,6,107
+932,Amandes - Marque H3,2.4,1.2,5,74
+933,Melon - Marque G2,2.6,1.6,4,144
+934,Riz Basmati - Marque D,1.1,1.7,2,81
+935,Jambon Cuit - Marque P1,0.8,1.2,3,79
+936,Poivrons - Marque M2,0.7,1.0,5,112
+937,Gateau au Fromage - Marque F1,1.2,1.4,8,147
+938,Poivrons - Marque M2,2.6,1.7,4,131
+939,Boites de Cereales - Marque X,1.1,1.2,3,134
+940,Beurre - Marque G,2.9,1.9,4,60
+941,Pate a Tartiner au Chocolat - Marque V,1.0,1.9,1,132
+942,Pates - Marque A,1.6,1.9,6,80
+943,Creme Fraiche - Marque T1,1.6,1.8,3,111
+944,Noix de Coco - Marque F3,2.0,1.8,5,75
+945,Melon - Marque G2,2.4,1.4,6,100
+946,Muffins aux Myrtilles - Marque J1,2.7,1.4,2,124
+947,Poisson Surgele - Marque P,1.1,1.6,9,126
+948,Biscuits au Beurre - Marque I1,1.6,1.4,10,62
+949,Biscuits au Chocolat - Marque J,2.4,1.9,10,88
+950,Fromage Cheddar - Marque L,0.6,1.6,9,60
+951,Bananes - Marque R2,1.4,1.3,9,143
+952,Boites de Cereales - Marque X,1.3,1.3,4,68
+953,Noisettes - Marque G3,2.1,1.1,7,70
+954,Ananas - Marque W2,1.7,1.2,8,53
+955,Chips de Legumes - Marque C1,1.0,1.9,10,115
+956,Oranges - Marque P2,1.7,1.4,3,88
+957,Cornichons au Vinaigre - Marque N,1.8,1.9,7,137
+958,Tofu - Marque E2,0.9,1.2,2,52
+959,Pommes - Marque Q2,2.3,1.9,3,150
+960,Chips de Pommes de Terre - Marque S,0.7,1.2,4,145
+961,Prunes - Marque D3,2.8,1.6,2,103
+962,Jus d'Orange - Marque H,2.5,1.6,2,107
+963,Courges - Marque N2,2.6,1.5,7,98
+964,Myrtilles - Marque U2,1.6,1.6,10,127
+965,Pate a Tartiner au Chocolat - Marque V,2.2,1.7,2,128
+966,Cerises - Marque V2,2.6,1.3,6,68
+967,Poulet Roti - Marque C2,1.0,1.3,2,93
+968,Eau Minerale - Marque T,1.9,2.0,1,136
+969,Bouteille de Vin Rouge - Marque X1,1.9,1.1,3,53
+970,Noix de Coco - Marque F3,0.9,1.0,3,127
+971,Poisson Surgele - Marque P,1.7,1.7,10,113
+972,Kiwis - Marque Z3,1.5,1.3,3,77
+973,Framboises - Marque T2,2.5,1.4,1,87
+974,Salade de Fruits - Marque F2,2.0,1.5,6,106
+975,Biscuits au Chocolat - Marque J,2.8,1.9,1,92
+976,Riz Basmati - Marque D,0.8,1.9,5,90
+977,Jambon Cuit - Marque P1,1.1,1.2,7,77
+978,Framboises - Marque T2,2.8,1.7,6,81
+979,Chips de Pommes de Terre - Marque S,2.5,1.7,3,79
+980,Boites de Cereales - Marque X,1.4,1.6,1,132
+981,Biscuits au Beurre - Marque I1,0.6,1.3,8,95
+982,Aubergines - Marque L2,2.1,1.0,9,116
+983,Oeufs Frais - Marque R1,1.0,1.5,5,83
+984,Bananes - Marque R2,1.3,1.0,7,118
+985,Papayes - Marque Y3,1.8,1.1,7,139
+986,Nectarines - Marque B3,2.8,1.5,5,75
+987,Poivrons - Marque M2,2.9,1.5,1,72
+988,Poivrons - Marque M2,1.0,1.5,5,93
+989,Eau Minerale - Marque T,2.5,1.1,10,144
+990,Poivrons - Marque M2,2.4,1.9,1,81
+991,Pommes - Marque Q2,2.9,1.6,10,133
+992,Chips de Riz - Marque W1,1.6,1.6,4,143
+993,Peches - Marque A3,0.9,1.1,10,103
+994,Chocolat Noir - Marque B1,2.7,1.8,8,125
+995,Cafe Moulu - Marque I,1.1,2.0,5,108
+996,Barre de Chocolat - Marque G1,1.9,1.6,6,87
+997,The Vert - Marque R,0.5,1.4,7,116
+998,Riz Basmati - Marque D,1.5,1.2,8,69
+999,Miel - Marque O,2.2,1.8,10,64
+1000,Tofu - Marque E2,2.4,1.3,1,89
